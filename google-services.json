@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998371972702",
+    "project_id": "ekopey-f42f8",
+    "storage_bucket": "ekopey-f42f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998371972702:android:65b4d2146207a131a4c6cf",
+        "android_client_info": {
+          "package_name": "com.ekopey.global.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998371972702-br64cem4g1d9js41n3gpg4g6656afc5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tjhAWB2kpdYFe4jaZjA3rtS10gy9yM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998371972702-br64cem4g1d9js41n3gpg4g6656afc5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,3 @@
-# Drive Gaya Mobile
+# Ekopey Blockchain Mobile Money
 
-Rent your car to classmates you can trust.
-# radiokam-mobile
+EKOPEY helps build the new financial system around sending remittances. We believe that much of the current money transfer system can be improved with decentralized alternatives. We start with decentralized sending, receiving and lending of money, but we plan to build new infrastructure to allow anyone in the world to trade corporate shares (Tokens) on the Solana network. Around all these cool features, users don't have to do anything like create wallet externally, add SOL on exchange to pay for transactions because the system handles all these things for them thanks to our Master Wallet. With EKOPEY finance and EKOPEY Academy, anyone can reap the benefits of blockchain and prepare for the transition to the new type of finance.
